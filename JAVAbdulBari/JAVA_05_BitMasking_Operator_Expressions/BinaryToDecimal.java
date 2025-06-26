@@ -1,4 +1,4 @@
-// package JAVAbdulBari.JAVA_05_BitMasking_Operator_Expressions;
+package JAVAbdulBari.JAVA_05_BitMasking_Operator_Expressions;
 
 import java.util.Scanner;
 import java.math.*;
